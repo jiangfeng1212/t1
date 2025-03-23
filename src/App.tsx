@@ -517,7 +517,7 @@ function App() {
           role="link"
           onClick={() =>
             openInNewTab(
-              "https://washington-2-map-fixed.d2qs7f7sc8f3m1.amplifyapp.com"
+              "https://trial2.d184xslv65p185.amplifyapp.com/"
             )
           }
           //onClick={() => getPlacesData()}
